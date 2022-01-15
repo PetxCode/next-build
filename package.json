@@ -1,0 +1,30 @@
+{
+  "name": "mongo_likn",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.1",
+    "cloudinary": "^1.28.1",
+    "formidable": "^2.0.1",
+    "http-status-codes": "^2.2.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.6",
+    "multer": "^1.4.4",
+    "next": "12.0.8",
+    "next-auth": "^4.1.0",
+    "next-connect": "^0.11.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-redux": "^7.2.6",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.8"
+  }
+}
